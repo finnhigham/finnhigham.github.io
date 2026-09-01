@@ -23,7 +23,7 @@ repository               : "finnhigham/finnhigham.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "apple-touch-icon-180x180.png"
   name             : "Finn Higham"
   pronouns         : # example: "she/her"  
   bio              : "Currently in my second year of studying psychology and cognitive neuroscience. I have particular interests in performance psychology."
